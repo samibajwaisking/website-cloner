@@ -230,3 +230,65 @@ Made with ❤️ in Pakistan 🇵🇰
 *"Making AI accessible for every Pakistani — completely free."*
 
 </div>
+# Advanced Website Cloner for Claude (v2.0)
+
+<div>
+
+ <img src="https://img.shields.io/badge/Version-2.0.0-blue" />
+
+ <img src="https://img.shields.io/badge/Dependencies-Zero-green" />
+
+ <img src="https://img.shields.io/badge/Build-No%20Step-orange" />
+
+</div>
+
+An elite-level tool designed for Claude to extract, de-compile, and 
+
+refactor any website into clean, production-ready Vanilla code.
+
+## What's New in v2.0? (The "Required" Update)
+
+This version introduces cutting-edge automation logic to handle modern, 
+
+complex front-end frameworks without external libraries.
+
+### Key Features:
+
+* **GSAP to Vanilla CSS Engine:** Automatically converts complex GSAP 
+
+(GreenSock) animations into native CSS animations and 
+
+`IntersectionObserver` triggers.
+
+* **Tailwind De-compiler:** Scans and converts compiled Tailwind utility 
+
+classes into semantic, readable Vanilla CSS.
+
+* **Precision Section Cloning:** Need just the Navbar? Or a specific 
+
+Pricing Table? Use granular commands like: *"Clone only the hero section 
+
+from [URL]"*.
+
+* **Zero-Dependency Output:** No more bloated JS files. The output is 
+
+lightweight, fast, and works in any browser instantly.
+
+## 🛠 How to Use
+
+1. Download or copy the `website-cloner-skill.json` file.
+2. Import it into your Claude Project or System Prompt.
+
+3. Command: `Clone [URL]` or `Extract [Section] from [URL]`.
+
+## Technical Philosophy
+
+Building for speed and simplicity. By eliminating the build step and 
+
+external dependencies, this tool ensures the cloned code is as clean as 
+
+a hand-written masterpiece.
+
+---
+
+Developed by **Samioutic**
