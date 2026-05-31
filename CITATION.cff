@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this skill in research or a published project, please cite it."
+type: software
+title: "Website Cloner — Claude AI Skill"
+abstract: >
+  A Claude AI Skill that clones any website into a pixel-perfect, self-contained
+  HTML/CSS/JS file using Claude AI. Supports GSAP animations and Tailwind CSS.
+  Built for web developers, designers, and AI enthusiasts who want to recreate
+  website layouts without manual coding.
+authors:
+  - family-names: Bajwa
+    given-names: Sami
+    alias: samibajwaisking
+    website: https://samioutic.com
+repository-code: "https://github.com/samibajwaisking/website-cloner"
+url: "https://samioutic.com"
+license: "LicenseRef-custom-attribution"
+version: "2.0.0"
+date-released: "2025-04-01"
+keywords:
+  - claude
+  - anthropic
+  - website-cloner
+  - html-generator
+  - ai-skill
+  - gsap
+  - tailwind
+  - prompt-engineering
+  - web-development
